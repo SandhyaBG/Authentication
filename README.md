@@ -24,3 +24,8 @@ The project covers these programming concepts:
 ## License
 
 MIT
+
+Here is how UI looks upon testing 
+
+<img width="982" alt="image" src="https://github.com/user-attachments/assets/e37d99a7-1c66-4e74-bd9f-c52994b0d90b">
+
