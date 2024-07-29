@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php'; // Include the database connection configuration
+require_once 'config.php'; 
 
 class UserAuthentication {
     private $conn;
