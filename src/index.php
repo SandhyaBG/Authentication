@@ -4,7 +4,11 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
-require 'includes/config.php';
-require 'includes/functions.php';
+// Include configuration and function files
+require_once 'config/config.php'; 
+require_once 'includes/functions.php';
 
-init();
+// Initialize the application
+init(); 
+
+?>
